@@ -1,30 +1,86 @@
-<h1 align="center">Hi 👋, I'm Nazmul Islam</h1>
-<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1b2d,60:0f1b2d,100:0d1117&height=220&section=header&text=Nazmul%20Islam%20Mazumdar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20Sylhet%2C%20Bangladesh&descSize=16&descAlignY=65&descColor=4b9cd3" width="100%"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnazmul68" alt="mrnazmul68" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=4B9CD3&center=true&vCenter=true&width=500&lines=Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+scalable+web+applications+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaborate+%E2%9C%A8" />
+</div>
 
-- 🔭 I’m currently working on **todo-manager-list**
+<br/>
 
-- 🌱 I’m currently learning **express,framer,**
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahfuzur-rahman-shanto-b50b87370/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://wa.me/+8801641218084">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.facebook.com/mahfuzur.rahman.shanto.449975">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:mahfuzshanto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&style=flat-square&color=4b9cd3&label=profile+views"/>&nbsp;
+  <img src="https://img.shields.io/github/followers/mahfuz-7148?style=flat-square&color=7c3aed&label=followers"/>
+</div>
 
-- 👨‍💻 All of my projects are available at [matomablood.vercel.app](matomablood.vercel.app)
+---
 
-- 💬 Ask me about **react,express,node**
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="260"/>
 
-- 📫 How to reach me **mrnazmul68@gmail.com**
+### 👋 Hi, I'm NAZMUL
 
-- ⚡ Fun fact **I thik am .....**
+Passionate **Full Stack Developer** from Dhaka, Bangladesh.  
+I build fast, scalable, and user-friendly web applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nazmul mazumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmul mazumdar" height="30" width="40" /></a>
-<a href="https://instagram.com/nazmu_lislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmu_lislam" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/slm 1543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="slm 1543" height="30" width="40" /></a>
-</p>
+- 🔭 Working on — **Medipeak Website Project**
+- 🌱 Exploring — **Next.js · TypeScript · Advanced React**
+- 💬 Ask me about — **React · Next.js · JavaScript**
+- 📫 Contact — **mrahman7148@gmail.com**
+- ⚡ Fun fact — **I turn coffee into code ☕**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/><br/><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazmul68&show_icons=true&locale=en&layout=compact" alt="mrnazmul68" /></p>
+<br clear="right"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazmul68&" alt="mrnazmul68" /></p>
+---
+
+### 🛠 Tech Stack
+
+**💻 Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,html,css,figma&theme=dark&perline=8"/>
+
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=8"/>
+
+**🔧 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,webstorm&theme=dark&perline=8"/>
+
+---
+
+### 📊 GitHub Stats
+
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahfuz-7148&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4b9cd3&fire=4b9cd3&currStreakLabel=4b9cd3&sideLabels=c9d1d9&dates=4b5563&sideNums=c9d1d9&currStreakNum=ffffff" width="70%"/>
+</div>
+
+<br/>
+
+
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1b2d,60:0f1b2d,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>⚡ Built with passion by <b>Nazmul Islam Mazumdar</b> · Dhaka, Bangladesh</sub>
+</div>
