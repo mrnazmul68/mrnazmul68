@@ -115,14 +115,19 @@ Goal: Global opportunities & remote work 🌍
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrnazmul68&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazmul68&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazmul68&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrnazmul68&show_icons=true&theme=github_dark&hide_border=true"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=mrnazmul68&theme=github-dark-blue&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazmul68&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrnazmul68&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+</div>
+---
 
 ## 📈 Contribution Graph
 
